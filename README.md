@@ -17,8 +17,8 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < add pre-requisite >
-	-  < add pre-requisite >
+	-  HTML, CSS & Bootstrap, JavaScript
+	-  Basic knowledge of HTTP requests
 
 * Directions to setup/install
 ```bash
