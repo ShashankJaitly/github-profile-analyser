@@ -5,20 +5,18 @@
 ---
 
 
-<h2>Functionalities:</h2>
+<h2>Functionalities</h2>
 <ul>
 	<li>Profile Search</li>
 	<li>User Profile with multiple charts and stats</li>
 </ul>
-
-<br>
-
-<h2>Pre-requisites:</h2>
+<br/>
+<h2>Pre-requisites</h2>
 <ul>
 	<li>HTML, CSS & Bootstrap, JavaScript</li>
 	<li>Basic knowledge of HTTP requests</li>
 </ul>
-
+<br/>
 <h2>Contributors</h2>
 <ul>
 	<li>Principle Coordinator: PROF. SANJIV SHARMA</li>
