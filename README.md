@@ -3,42 +3,24 @@
 <h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
-
-
-## Functionalities
-- [ ]  < ADD FUNCTIONALITY >
-- [ ]  < ADD FUNCTIONALITY >
-
-<br>
-
 
 <h2>Instructions to run</h2>
 
-<h4> Pre-requisites:<h4>
-<p>
-	-  HTML, CSS & Bootstrap, JavaScript<br/>
-	-  Basic knowledge of HTTP requests
-</p>
-* Directions to setup/install
-```bash
-< insert code >
-```
-
-* Directions to execute
-
-```bash
-< insert code >
-```
+<h4>Functionalities:<h4>
+<ul>
+	<li>[ ]  < ADD FUNCTIONALITY ></li>
+	<li>[ ]  < ADD FUNCTIONALITY ></li>
+</ul>
 
 <br>
 
-## Contributors
+<h2>Instructions to run</h2>
 
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
-
-
+<h4>Pre-requisites:<h4>
+<ul>
+	<li>HTML, CSS & Bootstrap, JavaScript</li>
+	<li>Basic knowledge of HTTP requests</li>
+</ul>
 
 <br>
 <br>
