@@ -14,12 +14,13 @@
 <br>
 
 
-## Instructions to run
+<h2>Instructions to run</h2>
 
-* Pre-requisites:
-	-  HTML, CSS & Bootstrap, JavaScript
+<h4> Pre-requisites:<h4>
+<p>
+	-  HTML, CSS & Bootstrap, JavaScript<br/>
 	-  Basic knowledge of HTTP requests
-
+</p>
 * Directions to setup/install
 ```bash
 < insert code >
