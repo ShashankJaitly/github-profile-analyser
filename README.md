@@ -13,16 +13,20 @@
 
 <br>
 
-
 <h2>Pre-requisites:</h2>
 <ul>
 	<li>HTML, CSS & Bootstrap, JavaScript</li>
 	<li>Basic knowledge of HTTP requests</li>
 </ul>
 
-<br>
-<br>
+<h2>Contributors</h2>
+<ul>
+	<li>Principle Coordinator: PROF. SANJIV SHARMA</li>
+	<li>Project Coordinator: PROF. SHIKHA GAUTAM</li>
+	<li>Mentor: AAKASH GOEL</li>
+</ul>
 
+<br>
 
 By DSC KIET in association with Department of Computer Science
 
