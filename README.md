@@ -7,8 +7,8 @@
 
 <h2>Functionalities:</h2>
 <ul>
-	<li>[ ]  Profile Search</li>
-	<li>[ ]  User Profile with multiple charts and stats</li>
+	<li>Profile Search</li>
+	<li>User Profile with multiple charts and stats</li>
 </ul>
 
 <br>
