@@ -23,6 +23,6 @@
 <br>
 <br>
 
-<p align="center">
-	By DSC KIET in association with Department of Computer Science
-</p>
+
+By DSC KIET in association with Department of Computer Science
+
