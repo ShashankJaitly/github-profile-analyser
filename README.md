@@ -1,6 +1,6 @@
 <img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
 <h2 align="left"> Github Profile Analyser - CSEDSE0S5 </h2>
-<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
+<h4 align="left"> Simply add your GitHub username and the GitHub Profile Analyser tool will instantly get you a number of charts summarizing your repositories, commits and stars, grouped by language.<h4>
 
 ---
 
@@ -8,8 +8,8 @@
 
 <h4>Functionalities:<h4>
 <ul>
-	<li>[ ]  < ADD FUNCTIONALITY ></li>
-	<li>[ ]  < ADD FUNCTIONALITY ></li>
+	<li>[ ]  Profile Search</li>
+	<li>[ ]  User Profile with multiple charts and stats</li>
 </ul>
 
 <br>
@@ -26,5 +26,5 @@
 <br>
 
 <p align="center">
-	Made during 🌙 by DSC KIET
+	By DSC KIET in association with Department of Computer Science
 </p>
