@@ -4,9 +4,8 @@
 
 ---
 
-<h2>Instructions to run</h2>
 
-<h4>Functionalities:<h4>
+<h2>Functionalities:</h2>
 <ul>
 	<li>[ ]  Profile Search</li>
 	<li>[ ]  User Profile with multiple charts and stats</li>
@@ -14,9 +13,8 @@
 
 <br>
 
-<h2>Instructions to run</h2>
 
-<h4>Pre-requisites:<h4>
+<h2>Pre-requisites:</h2>
 <ul>
 	<li>HTML, CSS & Bootstrap, JavaScript</li>
 	<li>Basic knowledge of HTTP requests</li>
